@@ -1,2 +1,2 @@
-secret_key = AKIAYVEDWODGWRK3Z3PM
-access_key = YYf2ZhZNY9n95S0ygvC2X5By/31SlbLhuvKUXLgn
+access_key = AKIAYVEDWODGWRK3Z3PM
+secret_key = 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
